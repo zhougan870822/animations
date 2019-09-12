@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".NextActivity"></activity>
+        <activity android:name=".Next2Activity" />
     </application>
 
 </manifest>
